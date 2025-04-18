@@ -1,4 +1,4 @@
-# Stroopwafel plugin to tolerate ISFShax
+# Stroopwafel plugin to remove the WiFi module
 
 This plugin for [stroopwafel](https://github.com/shinyquagsire23/stroopwafel) is a IOSU patch to remove the need for the WiFi module.
 
